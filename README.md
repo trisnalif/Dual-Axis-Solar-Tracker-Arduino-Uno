@@ -1,6 +1,5 @@
 <img width="741" height="486" alt="image" src="https://github.com/user-attachments/assets/956d3162-7cee-4440-b6ad-cd051c1c6eec" />
 
-# Dual-Axis-Solar-Tracker-Arduino-Uno
 ================================================================================
 DUAL-AXIS SOLAR TRACKER LIBRARY FOR PROTEUS  
 ================================================================================
